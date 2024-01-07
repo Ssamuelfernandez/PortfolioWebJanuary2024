@@ -9,10 +9,12 @@ const frontSkills = [
     { title: "HTML" },
     { title: "CSS" },
     { title: "JavaScript" },
+    { title: "TypeScript" },
     { title: "jQuery" },
     { title: "React.js" },
     { title: "Vue.js" },
     { title: "Bootstrap" },
+    { title: "Vuetify" },
     { title: "Sass" },
 ];
 
