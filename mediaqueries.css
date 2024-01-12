@@ -9,18 +9,18 @@
     flex-wrap: wrap;
   }
 
-  #proyects .section-container {
+  #projects .section-container {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
 
   }
 
-  #proyects h2.experience-sub-title {
+  #projects h2.experience-sub-title {
     margin: 1rem;
   }
 
-  #proyects .details-container p {
+  #projects .details-container p {
     margin-left: 8rem;
     margin-right: 8rem;
   }
@@ -66,7 +66,7 @@
     height: fit-content;
   }
 
-  #proyects .details-container p {
+  #projects .details-container p {
     margin-left: 3rem;
     margin-right: 3rem;
   }

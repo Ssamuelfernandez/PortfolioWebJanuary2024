@@ -384,9 +384,9 @@ article i {
     color: white;
 }
 
-/* Proyects */
+/* Projects */
 
-#proyects .about-containers {
+#projects .about-containers {
     width: 100vh;
     margin-bottom: 2rem;
     margin-top: 1rem;
@@ -394,14 +394,14 @@ article i {
     border: rgb(69, 97, 115) 2px solid;
 }
 
-#proyects .details-container {
+#projects .details-container {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
 }
 
-.proyect-pic {
+.project-pic {
     width: 300px;
     height: 200px;
     object-fit: cover;
@@ -410,17 +410,17 @@ article i {
     border: rgb(69, 97, 115) 2px solid;
 }
 
-#proyects .experience-sub-title {
+#projects .experience-sub-title {
     color: rgb(69, 97, 115);
 }
 
-#proyects .details-container p {
+#projects .details-container p {
     margin-top: 1rem;
     margin-bottom: 1rem;
     justify-content: center;
 }
 
-#proyects h3 {
+#projects h3 {
     text-align: center;
     color: white;
     margin-bottom: 2rem;
@@ -503,7 +503,7 @@ article i {
     color: rgb(242, 158, 56);
 }
 
-#proyects .btn {
+#projects .btn {
     border: 2px solid rgb(255, 255, 255);
     color: white;
 }
